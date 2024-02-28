@@ -54,7 +54,8 @@ public class RentOrOwnCalculator {
                 System.out.println("A rent ratio of 18 or higher is considered an indication to rent a home versus buying a similar home.");
                 System.out.println();
                 if(rentRatio < 18){
-                    System.out.println("Congratulations buying a home makes more sense than renting right now!");;
+                    System.out.println("Congratulations buying a home makes more sense than renting right now!");
+                    System.out.println();
                 } else {
                     System.out.println("Renting a home is more financially wise than to purchase right now.");
                     System.out.println();
